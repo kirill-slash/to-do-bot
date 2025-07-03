@@ -20,6 +20,7 @@ cd to-do-tg_bot
 
 ```bash
 pip install aiogram
+pip install dotenv
 ```
 3. Создайте файл .env и добавьте токен вашего бота:
 
